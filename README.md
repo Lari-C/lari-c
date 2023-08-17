@@ -1,4 +1,5 @@
-<h1> ✨ Larissa Carrara ✨</h1>
+<h1 align="center"> ✨ Larissa Carrara ✨</h1>
+<p align="center"> Apaixonada por desenvolvimento web e pelo mundo digital.  </p>
 <br>
 <img align="right" src="https://github.com/Lari-C/lari-c/assets/100985828/e87c8861-52f7-4a29-baef-e3e48cf12fd4" widht="350px" height="350px">
 
