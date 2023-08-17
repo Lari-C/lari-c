@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> ✨ Larissa Carrara ✨</h1>
 
-<!--
-**Lari-C/lari-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📒 Estou aprendendo <b> JavaScript </b>
 
-Here are some ideas to get you started:
+🤓 Estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ A procura de um estágio de <b> Desenvolvedor Web </b>
+
+
+<h2>✨ Ferramentas ✨</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40px" height="40px"/>
+          
+          
+
+<h2>✨ Você me encontra em: ✨</h2>
+
+<a href="https://www.linkedin.com/in/larissa-carrara-477850251/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" widht="40px" height="40px"/> </a>
+          
