@@ -12,7 +12,8 @@
 
 <h2>✨ Ferramentas ✨</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40px" height="40px"/>
+          
 <br><br>
 
 <h2>✨ Você me encontra em: ✨</h2>
